@@ -1,6 +1,8 @@
 # Tarea-unidad1 Estructuras Condicionales y Repetitivas
 Marlene Natali Guillen Herrera 
 24150829
+
+
 Clasificación de Triángulos
 Este programa solicita las longitudes de los tres lados de un triángulo y utiliza una serie de sentencias if, elif, y else para determinar si es equilátero (los tres lados iguales), isósceles (dos lados iguales) o escaleno (todos los lados diferentes).
 
